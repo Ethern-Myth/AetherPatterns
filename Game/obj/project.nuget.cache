@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jGLVzp0bseSYgyH9cMCAaS+7P/jFtd4xys19pDYVTnlMp7uu6EmWnj0Pjws+zMNUmPmBOrEQJ5pwyBo6n6j0Bw==",
+  "success": true,
+  "projectFilePath": "/home/victor/Documents/Game/Game/Game/Game.csproj",
+  "expectedPackageFiles": [
+    "/home/victor/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "/home/victor/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.netcore.app.ref/6.0.4/microsoft.netcore.app.ref.6.0.4.nupkg.sha512",
+    "/home/victor/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.4/microsoft.aspnetcore.app.ref.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
